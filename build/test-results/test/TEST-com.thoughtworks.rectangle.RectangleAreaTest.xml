@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.thoughtworks.rectangle.RectangleAreaTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-30T10:10:09" hostname="gurushifu-gurushifugitp-t9bqhn6urtd" time="0.05">
+  <properties/>
+  <testcase name="rectangleArea()" classname="com.thoughtworks.rectangle.RectangleAreaTest" time="0.05"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
